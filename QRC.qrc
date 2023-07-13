@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>forest.jpg</file>
+        <file>box.jpg</file>
+        <file>tinywow_change_bg_photo_28741302.png</file>
+        <file>bricks.png</file>
+        <file>greendown.png</file>
+        <file>greenleft.png</file>
+        <file>greenright.png</file>
+        <file>greenup.png</file>
+        <file>reddown.png</file>
+        <file>redleft.png</file>
+        <file>redright.png</file>
+        <file>redup.png</file>
+        <file>bgc.png</file>
+        <file>menu.png</file>
+    </qresource>
+    <qresource prefix="/TXT files">
+        <file>map_3.txt</file>
+        <file>Tank.txt</file>
+    </qresource>
+</RCC>
